@@ -8,6 +8,7 @@ return [
         'Magento_Theme' => 1,
         'Magento_Customer' => 1,
         'Magento_AdminNotification' => 1,
+        'Learning_GreetingMessage' => 1,
         'Magento_Indexer' => 1,
         'Magento_AdvancedPricingImportExport' => 1,
         'Magento_Config' => 1,
