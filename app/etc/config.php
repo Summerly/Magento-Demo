@@ -9,6 +9,7 @@ return [
         'Magento_Customer' => 1,
         'Magento_AdminNotification' => 1,
         'Learning_GreetingMessage' => 1,
+        'Learning_HelloPage' => 1,
         'Magento_Indexer' => 1,
         'Magento_AdvancedPricingImportExport' => 1,
         'Magento_Config' => 1,
@@ -124,6 +125,7 @@ return [
         'Magento_CatalogWidget' => 1,
         'Dotdigitalgroup_Email' => 1,
         'Magento_WishlistAnalytics' => 1,
+        'Mageplaza_Core' => 1,
         'Shopial_Facebook' => 1,
         'Temando_Shipping' => 1,
         'Vertex_Tax' => 1
