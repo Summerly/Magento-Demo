@@ -129,6 +129,7 @@ return [
         'Mageplaza_Core' => 1,
         'Shopial_Facebook' => 1,
         'Temando_Shipping' => 1,
+        'Vendor_Module' => 1,
         'Vertex_Tax' => 1
     ]
 ];
