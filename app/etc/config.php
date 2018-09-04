@@ -11,6 +11,7 @@ return [
         'Learning_ClothingMaterial' => 1,
         'Learning_GreetingMessage' => 1,
         'Learning_HelloPage' => 1,
+        'Learning_Js' => 1,
         'Magento_Indexer' => 1,
         'Magento_AdvancedPricingImportExport' => 1,
         'Magento_Config' => 1,
